@@ -1,0 +1,342 @@
+@media screen and (min-width:320px) and (max-width:480px) {
+
+  .fornav {
+    flex-direction: column;
+    width: 75%;
+  }
+
+  .for-logo {
+    width: 70%;
+  }
+
+  .for-logoimg {
+    padding: 0px 12px;
+  }
+
+  .for-logoimg img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .for-menu {
+    display: none;
+  }
+
+  .for-button {
+    width: 100%;
+    justify-content: center;
+    margin-top: -20px;
+    display: none;
+  }
+
+  .icons {
+    /* border: 1px solid goldenrod; */
+    font-size: 30px;
+    padding: 5px 10px;
+    margin: 0px;
+  }
+
+  .hire-button {
+    margin: 0;
+    width: 100%;
+    justify-content: space-evenly;
+  }
+
+  #main-box1 {
+    height: 120px;
+    justify-content: left;
+  }
+  .for-typeheading ul li{
+    font-size: 71px;
+  }
+
+  #main-box2 {
+    margin: 0;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    padding: 0px 5px;
+  }
+
+  .for-para {
+    width: 93%;
+    padding: 0px 12px;
+  }
+
+  .forbutton2 {
+    margin-top: 30px;
+    padding-left: 10px;
+  }
+
+  .for-hireme button {
+    padding: 15px 25px;
+  }
+
+  .for-myportfolio button {
+    padding: 15px 25px;
+  }
+
+  #main-box3 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    margin: 0;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+
+  #main-box3>img {
+    margin: 0;
+    width: 100%;
+    height: 170%;
+  }
+
+  .for-inmain2 {
+    flex-direction: column;
+    width: 100%;
+    margin: 50px 0px;
+    margin-bottom: 0;
+  }
+
+  .for-profilepic {
+    width: 100%;
+  }
+
+  .profileimage img {
+    height: 170%;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .profileimage {
+    overflow: hidden;
+    height: 370px;
+    padding: 0px 15px;
+    width: 100%;
+  }
+
+  .for-personalinfo {
+    width: 100%;
+    justify-content: flex-start ;
+    height: 100%;
+  }
+  .biography{
+    width: 100%;
+    margin-top: 20px;
+  }
+  .biography h1 {
+    font-size: 30px;
+    padding: 0 15px;
+  }
+  .biography2{
+    grid-template-columns: 1fr;
+    margin: 0 15px;
+    width: 93%;
+  }
+  .single-info {
+    display: inline-grid;
+    line-height: normal;
+    margin: 5px 0px;
+  }
+  .single-info p{
+    margin: 0;
+  }
+  .for-social {
+    margin-top: 20px;
+    padding: 0px 15px;
+  }
+  .for-cvbutton{
+    margin-top: 25px;
+    padding: 0px 15px;
+    margin-bottom: 50px;
+  }
+  .biography h6 {
+    padding: 10px 15px;
+  }
+  .biography p {
+    padding: 20px 15px;
+  }
+  .second-button button {
+    padding: 15px 25px;
+  }
+  .first-button button {
+    padding: 15px 25px;
+  }
+  .for-followme h1{
+    font-size: large;
+  }
+  
+  .for-workheading h1 {
+    font-size: 30px;
+  }
+  .for-whatido {
+    width: 100%;
+    margin: 90px 0px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0px;
+  }
+  .serbox{
+    margin: 10px 0px;
+    width: 90%;
+  }
+  .for-services{
+    margin-top: 30px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .in-main4{
+    width: 100%;
+    margin: 50px 0px;
+    flex-direction: column;
+  }
+  .for-profilepic2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .in-profilepic2{
+    width: 91%;
+    height: 100%;
+  }
+  
+.for-skills{
+  width: 91%;
+  margin: 0;
+  padding: 0 17px;
+  height: 100%;
+  margin-top: 10px;
+}
+.aboutskills {
+  width: 100%;
+}
+.progress-bar{
+  width: 100%;
+}
+.progress-bar{
+  margin: 0;
+}
+
+.in-main5 {
+  display: block;
+  width: 100%;
+  padding-top: 20px;
+}
+.for-listitems {
+  width: 95%;
+  margin: 0;
+}
+.listitems2{
+  display: block;
+}
+.item-about h3 {
+  font-size: 20px;
+}
+.item-about p{
+  font-size: 17px;
+}
+.pic-main5 {
+  width: 100%;
+}
+.pic-main5 {
+  height: 160%;
+}
+.main5pic{
+  width: 100%;
+  overflow: hidden;
+  height: 350px;
+}
+
+
+#main-6{
+  align-items: center;
+  height: 300px;
+}
+.main-counter{
+width: 100%;
+height: 80%;
+}
+.number-counter {
+display: grid;
+grid-template-columns: 1fr 1fr;
+height: 100%;
+}
+.counter{
+  height: 100%;
+  width: 100%;
+  margin-bottom: -35px;
+}
+.counter h1{
+  font-size: 40px;
+}
+
+
+
+.in-main7 {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.for-successwork {
+  margin-top: 0;
+}
+.for-successpics{
+  display: block;
+  margin: 30px 15px;
+  width: 93%;
+}
+.success{
+  margin: 20px 0px;
+  height: 50%;
+}
+.for-head7 h1 {
+  font-size: 24px;
+}
+
+#main-8{
+  height: 300px;
+}
+.for-brandlogos {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.brandlogos{
+  width: 100%;
+}
+
+#main-9 {
+  height: 100%;
+}
+.footer-head{
+  margin-top: 45px;
+}
+.footer {
+  width: 91%;
+}
+.address {
+  flex-direction: column;
+}
+.foot{
+  justify-content: center;
+  margin: 10px 20px ;
+}
+.copyright-content{
+  text-align: center;
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+.copyright{
+  flex-direction: column;
+  height: 100%;
+}
+.socialicons-end {
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.footer-head img{
+  width: 100%;
+}
+}

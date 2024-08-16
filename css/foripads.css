@@ -1,0 +1,77 @@
+@media  screen and (min-width:481px) and (max-width:768px){
+    .for-menu{
+        display: none;
+    }
+    .fornav{
+        flex-direction: column;
+        width: 75%;
+    }
+    .for-logo{
+        width: 70%;
+    }
+    .for-logoimg{
+        padding: 0px 12px;
+    }
+    .for-logoimg img{
+        height: 100%;
+        width: 100%;
+    }
+    .for-menu{
+        display: none;
+    }
+    .for-button{
+        width: 100%;
+        justify-content: center;
+        margin-top: -20px;
+        display: none;
+    }
+    .icons{
+        /* border: 1px solid goldenrod; */
+        font-size: 30px;
+        padding: 5px 10px;
+        margin: 0px;
+      }
+      .hire-button{
+        margin: 0;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    #main-box1{
+        height: 120px;
+        justify-content: left;
+    }
+    #main-box2{
+        margin: 0;
+        grid-column-start: 1;
+        grid-column-end: 5;
+        padding: 0px 5px;
+    }
+    .for-para{
+      width: 93%;
+      padding: 0px 12px;
+      }
+      .forbutton2 {
+        margin-top: 30px;
+      }
+      .for-hireme button{
+        padding: 15px 30px;
+      }
+      .for-myportfolio button{
+            padding: 15px 30px;
+      } 
+
+
+    #main-box3 {
+        grid-column-start: 1;
+        grid-column-end: 5;
+        margin: 0;
+        height: 600px;
+        overflow: hidden;
+        margin-top: 20px;
+      }
+      #main-box3>img{
+        margin: 0;
+        width: 100%;
+      }
+
+}
